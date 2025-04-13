@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-APP_NAME="myDockApp"
+APP_NAME="macindock"
 REPO_URL="https://github.com/JonsonsHub"
 TMP_DIR="/tmp/$APP_NAME-install"
 
