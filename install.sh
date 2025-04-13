@@ -2,7 +2,7 @@
 
 # Configuration
 APP_NAME="myDockApp"
-REPO_URL="https://github.com/yourusername/yourrepo.git"
+REPO_URL="https://github.com/JonsonsHub"
 TMP_DIR="/tmp/$APP_NAME-install"
 
 # Styling
