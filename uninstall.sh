@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-APP_NAME="myDockApp"
+APP_NAME="macindock"
 USER_HOME="/Users/$(whoami)"
 INSTALL_DIR="$USER_HOME/$APP_NAME"
 
